@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.390672">
+<testcase classname="Free Paradigm Login Feature" name="Free Paradigm Login Test Scenario" time="24.390672">
+<system-out><![CDATA[Given Open Paradigm Application.............................................passed
+When Enter username and Password............................................passed
+Then User Access Login Page.................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
